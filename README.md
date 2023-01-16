@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/elsayed-mustafa-336b98232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elsayed-mustafa-336b98232" height="30" width="40" /></a>
 <a href="https://fb.com/alsayed.mostafa.507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alsayed.mostafa.507" height="30" width="40" /></a>
-  <a href="ElSayed.Mustafa.Ibrahim@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ElSayed.Mustafa.Ibrahim@gmail.com" height="30" width="40" /></a>
+  <a href="ElSayed.Mustafa.Ibrahim@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color-glass/2x/gmail.png" alt="ElSayed.Mustafa.Ibrahim@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
